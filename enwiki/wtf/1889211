@@ -402,6 +402,38 @@
       ]
     },
     {
+      "title": "President",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Charles Savarin has hold the mainly ceremonial post of President of Dominica since 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Dominica"
+                }
+              ]
+            },
+            {
+              "text": "President Savarin was re-elected in 2018 for a new five-year term."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "DOMINICA-Savarin re-elected President, opposition stages walkout",
+          "url": "https://antiguanewsroom.com/dominica-savarin-re-elected-president-opposition-stages-walkout/",
+          "work": "Antigua News Room",
+          "date": "2 October 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "title": "Honours",
       "depth": 0,
       "paragraphs": [

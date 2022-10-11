@@ -347,6 +347,29 @@
               "text": "A 2019, an Al Jazeera investigation alleged that Skerrit had been receiving money in exchange for diplomatic passports and ambassadorships."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2019, incumbent Prime Minister Roosevelt Skerrit won his fourth consecutive general election eighteen seats to three, becoming the first Dominica Prime Minister ever to do so.",
+              "links": [
+                {
+                  "text": "election",
+                  "type": "internal",
+                  "page": "2019 Dominican general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:RooseveltSkerrit.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/RooseveltSkerrit.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/RooseveltSkerrit.jpg",
+          "caption": "The current Prime Minister of the Commonwealth of Dominica, Roosevelt Skerrit",
+          "links": []
         }
       ],
       "references": [
@@ -397,6 +420,16 @@
           "access-date": "2019-11-29",
           "template": "citation",
           "type": "citation"
+        },
+        {
+          "title": "Reflections on Dominica 2019 general election results",
+          "url": "https://www.caribbeannewsglobal.com/reflections-on-dominica-2019-general-election-results/",
+          "first": "Rupert",
+          "last": "Sorhaindo",
+          "work": "Caribbean News Global",
+          "date": "10 December 2019",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
