@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Dominica",
+        "id": "Q784"
+    },
+    "cabinet": {
+      "id":     "Q114674849",
+      "start":  "2019-12-17",
+      "parent": "Q5015504"
+    },
+    "reference": {
+        "P854":   "https://news.gov.dm/information/cabinet",
+        "P1476": {
+            "text": "Cabinet  - GIS Dominica",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Dominica"
+    }
+}
