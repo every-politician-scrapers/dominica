@@ -11,7 +11,7 @@ class MemberList
     decorator WikidataIdsDecorator::Links
 
     def member_container
-      noko.xpath("//h2[.//span[contains(.,'Ministers')]][1]//following-sibling::ul[1]//li")
+      noko.xpath("//h2[.//span[contains(.,'Ministers')]][1]//following-sibling::ul[position()<=3]//li")
     end
   end
 
@@ -21,7 +21,7 @@ class MemberList
     end
 
     field :name do
-      noko.text.split(':').first.tidy
+      noko.text.split(':').first.gsub('The Late ', '').tidy
     end
 
     field :positionID do
