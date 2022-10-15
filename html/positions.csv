@@ -1,7 +1,27 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q114676758,Attorney General of Dominica,Q784,Q784,,,,,,,
 Q21296441,Member of the House of Assembly of Dominica,Q784,Q784,,,,,,,
+Q114674902,Minister of Agriculture,Q784,Q784,,,,,,,
+Q114674903,Minister of Education,Q784,Q784,,,,,,,
+Q114674904,Minister of Environment,Q784,Q784,,,,,,,
 Q96393321,Minister of Finance,,Q784,,,,,,,Minister of Finance (Dominica)
 Q19895018,Minister of Foreign Affairs,Q784,Q784,,,,,,,Minister of Foreign Affairs (Dominica)
+Q114674907,Minister of Governance,Q784,Q784,,,,,,,
+Q114674908,Minister of Health,Q784,Q784,,,,,,,
+Q114674909,Minister of Housing,Q784,Q784,,,,,,,
+Q114674910,Minister of National Security,Q784,Q784,,,,,,,
+Q114676743,Minister of Planning,Q784,Q784,,,,,,,
+Q114674913,Minister of Public Works,Q784,Q784,,,,,,,
+Q114674915,Minister of Sports,Q784,Q784,,,,,,,
+Q114676746,Minister of State in the Ministry of Agriculture,Q784,Q784,,,,,,,
+Q114675991,Minister of State in the Ministry of Finance,Q784,Q784,,,,,,,
+Q114676002,Minister of State in the Ministry of Foreign Affairs,Q784,Q784,,,,,,,
+Q114676025,Minister of State in the Office of the Prime Minister,Q784,Q784,,,,,,,
+Q114674916,Minister of Tourism,Q784,Q784,,,,,,,
+Q114674917,Minister of Trade,Q784,Q784,,,,,,,
+Q114674919,Minister of Youth,Q784,Q784,,,,,,,
+Q114676039,Parliamentary Secretary in the Ministry of Health,Q784,Q784,,,,,,,
+Q114676049,Parliamentary Secretary in the Ministry of Tourism,Q784,Q784,,,,,,,
 Q1756747,Prime Minister of Dominica,Q784,Q784,,Q550573,1978-11-03,,Q7240350,,Prime Minister of Dominica
 Q30105105,ambassador of Dominica to the United States,Q784,,,,,,,,List of ambassadors of Dominica to the United States
 Q20087535,president of Dominica,Q784,Q784,,Q878188,,,,,
