@@ -1,0 +1,167 @@
+{
+  "title": "Ian Douglas (politician)",
+  "pageID": 17843531,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Dominica Labour Party politicians",
+    "Government ministers of Dominica",
+    "Members of the House of Assembly of Dominica",
+    "Dominica lawyers",
+    "Attorneys-General of Dominica"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ian Douglas is an attorney and politician from Dominica.",
+              "links": [
+                {
+                  "text": "attorney",
+                  "type": "internal",
+                  "page": "lawyer"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dominica"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ian Douglas"
+                ]
+              }
+            },
+            {
+              "text": "He is the Member of Parliament for the Portsmouth Constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "text": "Portsmouth",
+                  "type": "internal",
+                  "page": "Portsmouth, Dominica"
+                }
+              ]
+            },
+            {
+              "text": "Since May 2005, he has been a member of the Cabinet of Dominica, currently serving as Minister of Tourism, Legal Affairs and Civil Aviation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Dominica"
+                }
+              ]
+            },
+            {
+              "text": "Douglas entered Parliament in the by-election following the death of his uncle former Prime Minister and Portsmouth MP Roosevelt Douglas.",
+              "links": [
+                {
+                  "text": "by-election",
+                  "type": "internal",
+                  "page": "by-election"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Dominica"
+                },
+                {
+                  "text": "Portsmouth",
+                  "type": "internal",
+                  "page": "Portsmouth, Dominica"
+                },
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Roosevelt Douglas"
+                }
+              ]
+            },
+            {
+              "text": "Douglas is also the son of former Leader of the Opposition and Portsmouth MP Michael Douglas.",
+              "links": [
+                {
+                  "text": "son",
+                  "type": "internal",
+                  "page": "son"
+                },
+                {
+                  "text": "Leader of the Opposition",
+                  "type": "internal",
+                  "page": "Leader of the Opposition (Dominica)"
+                },
+                {
+                  "text": "Portsmouth",
+                  "type": "internal",
+                  "page": "Portsmouth, Dominica"
+                },
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "text": "Michael Douglas",
+                  "type": "internal",
+                  "page": "Michael Douglas (politician)"
+                }
+              ]
+            },
+            {
+              "text": "Before a Cabinet reshuffle in October 2007, Douglas served as Attorney General and Minister of Legal Affairs, Labor and Immigration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet reshuffle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Attorney General"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Dominica Labour Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominica Labour Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dominican attorney and politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

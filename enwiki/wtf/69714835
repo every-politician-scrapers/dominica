@@ -1,0 +1,102 @@
+{
+  "title": "Chekira Lockhart Hypolite",
+  "pageID": 69714835,
+  "categories": [
+    "Living people",
+    "Dominica women in politics",
+    "21st-century women politicians",
+    "Members of the House of Assembly of Dominica",
+    "Dominica Labour Party politicians",
+    "People from Roseau",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chekira Lockhart Hypolite is a Dominican politician from the Dominica Labour Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominica Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chekira Lockhart Hypolite"
+                ]
+              }
+            },
+            {
+              "text": "She is currently the Member of Parliament for Roseau South.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "House of Assembly of Dominica"
+                },
+                {
+                  "text": "Roseau South",
+                  "type": "internal",
+                  "page": "Roseau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was elected in the 2019 general election.",
+              "links": [
+                {
+                  "text": "2019 general election",
+                  "type": "internal",
+                  "page": "2019 Dominican general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dominican politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Roseau South Constituency MP Chekira Lockhart-Hypolite says over 150 assistance packages have been distributed to the elderly and vulnerable in her constituency",
+          "url": "http://www.q95da.com/1/post/2020/04/roseau-south-constituency-mp-chekira-lockhart-hypolite-says-over-150-assistance-packages-have-been-distributed-to-the-elderly-and-vulnerable-in-her-constituency.html",
+          "access-date": "2022-01-09",
+          "website": "Q95FM",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Launch of the campaign to elect Mrs. Chekira Lockhart-Hypolite in Roseau South",
+          "url": "https://www.youtube.com/watch?v=m4pfoLe9WEw",
+          "language": "en",
+          "access-date": "2022-01-09",
+          "template": "citation",
+          "type": "citation"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "dominica-politician-stub"
+        }
+      ]
+    }
+  ]
+}
