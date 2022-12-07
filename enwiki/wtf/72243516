@@ -1,0 +1,113 @@
+{
+  "title": "Kenneth Darroux",
+  "pageID": 72243516,
+  "categories": [
+    "Living people",
+    "Dominica politicians",
+    "Dominican Republic politicians",
+    "21st-century Dominican Republic politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kenneth Melchoir Darroux is a Dominican politician and doctor.",
+              "formatting": {
+                "bold": [
+                  "Kenneth Melchoir Darroux"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as the Minister of Foreign Affairs since 17 December 2019 in Dominica.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Foreign minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dominica"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his appointment as Foreign Affairs Minister he was the Minister for Health and Social Services in the government of Roosevelt Skerrit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roosevelt Skerrit"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Dominica Labour Party (DLP).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominica Labour Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dominican politician and doctor",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-11-10",
+          "title": "Dominica PM sidelines several government ministers for upcoming election",
+          "url": "https://www.caribbeannationalweekly.com/news/caribbean-news/dominica-pm-sidelines-several-government-ministers-for-upcoming-election/",
+          "access-date": "2022-11-13",
+          "website": "CNW Network",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Admin",
+          "date": "2022-10-27",
+          "title": "National Diaspora Policy in advanced stage of development, says Darroux",
+          "url": "https://dominicanewsonline.com/news/diaspora/national-diaspora-policy-in-advanced-stage-of-development-says-darroux/",
+          "access-date": "2022-11-13",
+          "website": "Dominica News Online",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "PM Skerrit announces slate for Dec 6 General Election {{!}} Loop Caribbean News",
+          "url": "https://caribbean.loopnews.com/content/pm-skerrit-announces-slate-dec-6-general-election",
+          "access-date": "2022-11-13",
+          "website": "Loop News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "dominicanrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}
